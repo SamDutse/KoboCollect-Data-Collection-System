@@ -36,18 +36,17 @@ This project is a comprehensive data collection and monitoring system developed 
 ### Step 2: Access the Project Forms
 Use the following links to preview each form online or import them into KoboCollect for field use:
 
-1. **Disease Surveillance Module**  
-   - [Disease Surveillance Form Link](#)  
-   *(Replace `#` with the link to your form in KoboToolbox)*
+1. **Disease Surveillance Module (MC1)**  
+   - [Disease Surveillance Form Link](https://kc.kobotoolbox.org/samdutse)
 
-2. **Health Facility Responsiveness Module**  
-   - [Health Facility Responsiveness Form Link](#)  
+2. **Health Facility Responsiveness Module (MC2)**  
+   - [Health Facility Responsiveness Form Link](https://kc.kobotoolbox.org/samdutse)  
 
-3. **Patient Treatment Adherence Module**  
-   - [Patient Treatment Adherence Form Link](#)
+3. **Patient Treatment Adherence Module(MC3)**  
+   - [Patient Treatment Adherence Form Link](https://kc.kobotoolbox.org/samdutse)
 
-4. **Health Worker Feedback Module**  
-   - [Health Worker Feedback Form Link](#)
+4. **Health Worker Feedback Module (MC4)**  
+   - [Health Worker Feedback Form Link](https://kc.kobotoolbox.org/samdutse)
 
 > **Note:** Ensure each link is accessible and properly configured in KoboToolbox for public or organizational use.
 
