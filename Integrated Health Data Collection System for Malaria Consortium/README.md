@@ -1,5 +1,3 @@
-Here’s an updated **README.md** file for your GitHub repository, including detailed instructions on how to set up and use the solution via KoboCollect.
-
 ---
 
 # Integrated Health Data Collection System for Malaria Consortium
